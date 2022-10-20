@@ -13,7 +13,11 @@ os.system('cls' if os.name == 'nt' else 'clear')
 print("[+] ABOUT SCRIPT:")
 print("[-] With this script, you can getting unlimited GB on Warp+.")
 print("[-] Version: 4.0.0")
-print("[-] Settings>Advanced>Diagnostics>ID")
+print("[?] How to get the warp+ ID?")
+print("[1] Open 1.1.1.1 App")
+print("[2] Click on the Hamburger Menu Icon ☰")
+print("[3] Advanced > Diagonistics")
+print("[4] Under Client Configuration > Copy the ID")
 referrer = input("[#] Enter the WARP+ ID:")
 
 
